@@ -1,0 +1,35 @@
+nav.navbar {
+    background-color: dodgerblue !important;
+}
+
+.content {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: rgb(236, 236, 236);
+    padding: 20px;
+    width: 100%;
+}
+
+img {
+    display: block;
+    width: 25%;
+    margin: 20px auto;
+}
+
+#display {
+    width: 100%;
+}
+
+#slider {
+    width: 100%;
+}
+
+#length {
+    display: inline-block;
+    width: 100px;
+    margin-left: 10px;
+}
+
+.previous-passwords {
+    margin-bottom: 20px;
+}
